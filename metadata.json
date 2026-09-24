@@ -1,0 +1,7 @@
+{
+  "name": "Whisper Audio Transcriber",
+  "description": "AI-powered speech-to-text transcription, real-time voice recording, multilingual translation, and subtitle generator based on OpenAI Whisper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

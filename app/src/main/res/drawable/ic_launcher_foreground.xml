@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Sound waves left -->
+    <path
+        android:pathData="M27,47c-0.8,0 -1.5,0.7 -1.5,1.5v11c0,0.8 0.7,1.5 1.5,1.5s1.5,-0.7 1.5,-1.5v-11C28.5,47.7 27.8,47 27,47z"
+        android:fillColor="#818CF8" />
+    <path
+        android:pathData="M33,40c-0.8,0 -1.5,0.7 -1.5,1.5v25c0,0.8 0.7,1.5 1.5,1.5s1.5,-0.7 1.5,-1.5v-25C34.5,40.7 33.8,40 33,40z"
+        android:fillColor="#A78BFA" />
+    <path
+        android:pathData="M39,34c-0.8,0 -1.5,0.7 -1.5,1.5v37c0,0.8 0.7,1.5 1.5,1.5s1.5,-0.7 1.5,-1.5v-37C40.5,34.7 39.8,34 39,34z"
+        android:fillColor="#C084FC" />
+
+    <!-- Center Microphone Body -->
+    <path
+        android:pathData="M54,28c-4.4,0 -8,3.6 -8,8v18c0,4.4 3.6,8 8,8s8,-3.6 8,-8V36C62,31.6 58.4,28 54,28z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Microphone base arc -->
+    <path
+        android:pathData="M66,48v6c0,6.6 -5.4,12 -12,12s-12,-5.4 -12,-12v-6h-3v6c0,7.8 6,14.2 13.5,14.9V74H47v3h14v-3h-5.5v-5.1c7.5,-0.7 13.5,-7.1 13.5,-14.9v-6H66z"
+        android:fillColor="#E0E7FF" />
+
+    <!-- Sound waves right -->
+    <path
+        android:pathData="M69,34c-0.8,0 -1.5,0.7 -1.5,1.5v37c0,0.8 0.7,1.5 1.5,1.5s1.5,-0.7 1.5,-1.5v-37C70.5,34.7 69.8,34 69,34z"
+        android:fillColor="#C084FC" />
+    <path
+        android:pathData="M75,40c-0.8,0 -1.5,0.7 -1.5,1.5v25c0,0.8 0.7,1.5 1.5,1.5s1.5,-0.7 1.5,-1.5v-25C76.5,40.7 75.8,40 75,40z"
+        android:fillColor="#A78BFA" />
+    <path
+        android:pathData="M81,47c-0.8,0 -1.5,0.7 -1.5,1.5v11c0,0.8 0.7,1.5 1.5,1.5s1.5,-0.7 1.5,-1.5v-11C82.5,47.7 81.8,47 81,47z"
+        android:fillColor="#818CF8" />
+
+    <!-- AI Sparkle in top right corner -->
+    <path
+        android:pathData="M78,24l1.2,2.8 2.8,1.2 -2.8,1.2 -1.2,2.8 -1.2,-2.8 -2.8,-1.2 2.8,-1.2z"
+        android:fillColor="#FDE047" />
+</vector>
